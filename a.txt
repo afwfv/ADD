@@ -1,15 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Allow
-! Homepage: https://github.com/DoingDog/XXKiller
-! License: https://github.com/DoingDog/XXKiller/blob/mae/LICENSE
+! Homepage: https://github.com/afwfv/ADD
 ! Expires: 25 hours (update frequency)
 ! Description: Just a merged Adblock rule. Nothing more.
-! Merge source: https://github.com/DoingDog/XXKiller/blob/mae/RMaker/allow/rule-list.ini
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-! Version: 232022082154
-! Last modified: 23/2022/08 21:54 (北京时间)
+! Version: 232022082209
+! Last modified: 23/2022/08 22:09 (北京时间)
 ! Count: 2351
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
