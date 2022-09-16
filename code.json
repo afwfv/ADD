@@ -1,0 +1,36 @@
+{
+	"code": 0,
+	"data": {
+		"ref": "master",
+		"headCommit": {
+			"fullMessage": "更新文件 code.json",
+			"shortMessage": "更新文件 code.json",
+			"allMessage": "",
+			"commitId": "dd8f0c30c97e7d02e8c42bce1f1850320f090379",
+			"commitTime": 1661872188000,
+			"committer": {
+				"name": "萝卜",
+				"email": "1262543022@qq.com"
+			},
+			"rawMessage": "更新文件 code.json"
+		},
+		"file": {
+			"data": "{\r\n    \"ownerId1\":\"e8d52920c8\",\r\n       \"scancode_id\":\"675\",\r\n    \"code\":1,\r\n    \"mtcode\":0,\r\n    \"msgi\":\"脚本运行正常，\\n频道： \\n交流：\",\r\n    \"msg\":\"：脚本已更新，\\n频道： \\n交流：，回复：美团 ，获取最新脚本。\",\r\n    \"mtcode1\":1,\r\n    \"msgi1\":\"脚本运行正常，\\n频道： \\n交流：\",\r\n    \"msg1\":\"脚本运行正常，\\n频道： \\n交流：\",\r\n    \"elmcode1\":0,\r\n    \"elmcode2\":1,\r\n    \"elmmsgi1\":\"\\n频道： \\n交流： \\n京东车：\",\r\n    \"elmmsg1\":\"请更新最新脚本,\\n频道： \\n交流：\",\r\n    \"ddcode\":1,\r\n    \"ddmsgi\":\"脚本运行正常，\\n频道： \\n交流：\",\r\n    \"ddmsg\":\"已删库，无法运行此脚本\",\r\n    \"ltcode\":1,\r\n    \"ltmsgi\":\"脚本运行正常，\\n频道： \\n交流：\",\r\n    \"ltmsg\":\"已删库，无法运行此脚本\",\r\n    \"zqcode\" : 1,\r\n    \"zqmsg\" :\" \",\r\n    \"errorMsg\":\"不玩了，再见\"\r\n}",
+			"lang": "json",
+			"size": 1299,
+			"previewed": false,
+			"lastCommitMessage": "更新文件 code.json\n",
+			"lastCommitDate": 1661872188000,
+			"lastAuthorDate": 1661872188000,
+			"lastCommitId": "dd8f0c30c97e7d02e8c42bce1f1850320f090379",
+			"lastCommitter": {
+				"name": "萝卜",
+				"email": "1262543022@qq.com"
+			},
+			"mode": "file",
+			"path": "code.json",
+			"name": "code.json"
+		},
+		"isHead": true
+	}
+}
