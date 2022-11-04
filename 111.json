@@ -1,0 +1,18 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": -11257,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "ruleArticles": "id.content@h3",
+    "ruleLink": "a@href",
+    "ruleTitle": "a@textNodes",
+    "singleUrl": true,
+    "sortUrl": "首页::http://legado.git.llc",
+    "sourceGroup": "书源",
+    "sourceIcon": "http://legado.git.llc",
+    "sourceName": "官方书源管理",
+    "sourceUrl": "http://legado.git.llc/",
+  }
+]
